@@ -24,12 +24,11 @@ That's why I do a lot of little projects mostly where I try to discover new thin
 - Diffusion models for realistic image generation
 - Conversational AI
 - GANs
+- NLP LLM for Conversational AI
 
 ## 🔭 My projects:
 
 I work a lot on otaku oriented projects (there are a lot of applications of AI true fact ✔️).
-
-Currently I try to elaborate a simple and natural chatbot to speak like a real human with memory recollection.
 
 ## 📫 How to reach me
 
