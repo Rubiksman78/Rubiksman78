@@ -19,7 +19,7 @@ I'm an engineer student in France and I 💟 Artficial Intelligence.
 
 That's why I do a lot of little projects mostly where I try to discover new things in Computer Vision, NLP or Reinforcement Learning 💻
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently slaying
 
 - Diffusion models for realistic image generation
 - Conversational AI
