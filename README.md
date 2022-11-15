@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm an engineer student in France and I 💟 Artficial Intelligence. 
 
-That's why I do a lot of little projects mostly where I try to discover new things in Computer Vision, NLP or Reinforcement Learning 💻
+That's why I do a lot of little projects mostly where I try to discover new things in Computer Vision or NLP 💻
 
 ## 🌱 I'm currently learning
 
