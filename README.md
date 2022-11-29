@@ -30,6 +30,7 @@ That's why I do a lot of little projects mostly where I try to discover new thin
 
 I work a lot on otaku oriented projects (there are a lot of applications of AI true fact ✔️).
 
-<a href="https://www.linkedin.com/in/samuel-sithakoul/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Samuel Sithakoul | LinkedIn" width="80px"/></a>
+## 📫 How to reach me
 
+<a href="https://www.linkedin.com/in/samuel-sithakoul/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Samuel Sithakoul | LinkedIn" width="80px"/></a>
 
