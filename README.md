@@ -30,8 +30,5 @@ That's why I do a lot of little projects mostly where I try to discover new thin
 
 I work a lot on otaku oriented projects (there are a lot of applications of AI true fact ✔️).
 
-## 📫 How to reach me
-
-I have a [Linkedin](https://www.linkedin.com/in/samuel-sithakoul-b03a14224/) account ! 😊 
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
