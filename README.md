@@ -34,3 +34,4 @@ I work a lot on otaku oriented projects (there are a lot of applications of AI t
 
 I have a [Linkedin](https://www.linkedin.com/in/samuel-sithakoul-b03a14224/) account ! 😊 
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
