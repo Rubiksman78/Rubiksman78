@@ -21,10 +21,9 @@ That's why I do a lot of little projects mostly where I try to discover new thin
 
 ## 🌱 I'm currently learning
 
-- Diffusion models for realistic image generation
 - Conversational AI
 - GANs
-- NLP LLM for Conversational AI
+- Machine Learning Algorithms: Random Forests, Gradient Boosting...
 
 ## 🔭 My projects:
 
