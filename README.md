@@ -32,7 +32,7 @@ I work a lot on otaku oriented projects (there are a lot of applications of AI t
 
 ## 📫 How to reach me
 
-<a href="https://www.linkedin.com/in/samuel-sithakoul/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Samuel Sithakoul | LinkedIn" width="80px"/></a> 
+<a href="https://www.linkedin.com/in/samuel-sithakoul/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Samuel Sithakoul | LinkedIn" width="80px"/></a> \n
 
 
 [![Samuel’s github stats](https://github-readme-stats.vercel.app/api?username=rubiksman78)](https://github.com/rubiksman78)
