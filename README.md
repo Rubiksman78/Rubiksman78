@@ -15,19 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an engineer student in France and I 💟 Artficial Intelligence. 
+I'm an engineer student in France and I 💟 Artificial Intelligence. 
 
-That's why I do a lot of little projects mostly where I try to discover new things in Computer Vision or NLP 💻
+That's why I do a lot of little projects mostly where I try to discover new things in Machine Learning 💻
 
 ## 🌱 I'm currently learning
 
-- Conversational AI
-- GANs
+- NLP: Conversational AI
+- Computer Vision: GANs, CNN
 - Machine Learning Algorithms: Random Forests, Gradient Boosting...
-
-## 🔭 My projects:
-
-I work a lot on otaku oriented projects (there are a lot of applications of AI true fact ✔️).
+- Optimization Algorithms: Branch&Bound, Simulated Annealing, Genetic Algorithms, MCTS
 
 ## 📫 How to reach me
 
