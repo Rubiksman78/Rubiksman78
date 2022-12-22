@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm an engineer student in France and I 💟 Artificial Intelligence. 
 
-That's why I do a lot of little projects mostly where I try to discover new things in Machine Learning 💻
+That's why I do a lot of little projects mostly where I try to discover new things in Machine Learning 
 
 ## 🌱 I'm currently learning
 
@@ -25,6 +25,14 @@ That's why I do a lot of little projects mostly where I try to discover new thin
 - Computer Vision: GANs, CNN
 - Machine Learning Algorithms: Random Forests, Gradient Boosting...
 - Optimization Algorithms: Branch&Bound, Simulated Annealing, Genetic Algorithms, MCTS
+
+## 💻 Coding
+
+I do most of my projects in Python with Machine Learning frameworks:
+- Tensorflow
+- Pytorch
+- Scikit-leatn
+- OpenCV
 
 ## 📫 How to reach me
 
