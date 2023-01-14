@@ -21,6 +21,7 @@ That's why I do a lot of little projects mostly where I try to discover new thin
 
 ## 🌱 I'm currently learning
 
+- Speech Recognition and TTS
 - NLP: Conversational AI
 - Computer Vision: GANs, CNN
 - Machine Learning Algorithms: Random Forests, Gradient Boosting...
@@ -29,9 +30,9 @@ That's why I do a lot of little projects mostly where I try to discover new thin
 ## 💻 Coding
 
 I do most of my projects in Python with Machine Learning frameworks:
-- Tensorflow
 - Pytorch
-- Scikit-leatn
+- Tensorflow
+- Scikit-learn
 - OpenCV
 
 ## 📫 How to reach me
