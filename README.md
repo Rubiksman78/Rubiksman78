@@ -23,7 +23,7 @@ That's why I do a lot of little projects where I try to discover new things in M
 
 - Speech Recognition and TTS
 - NLP: Conversational AI
-- Computer Vision: GANs, CNN
+- Computer Vision: GANs, CNN, Diffusion models
 - Machine Learning Algorithms: Random Forests, Gradient Boosting...
 - Optimization Algorithms: Branch&Bound, Simulated Annealing, Genetic Algorithms, MCTS
 - Physics Informed Neural Networks
