@@ -19,6 +19,10 @@ I'm an engineer student in France and I 💟 Artificial Intelligence.
 
 That's why I do a lot of little projects where I try to discover new things in Machine Learning 
 
+## 📝 Published papers 
+
+- Sithakoul, S., Meftah, S., Feutry, C. (2024). BEExAI: Benchmark to Evaluate Explainable AI. In: Longo, L., Lapuschkin, S., Seifert, C. (eds) Explainable Artificial Intelligence. xAI 2024. Communications in Computer and Information Science, vol 2153. Springer, Cham. https://doi.org/10.1007/978-3-031-63787-2_23
+
 ## 🌱 I'm currently learning
 
 - Speech Recognition and TTS
